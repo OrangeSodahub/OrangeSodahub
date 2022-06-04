@@ -6,14 +6,12 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 [![wakatime](https://wakatime.com/badge/user/55e306c3-cea9-4c2e-9056-61b183dcb26a.svg)](https://wakatime.com/@55e306c3-cea9-4c2e-9056-61b183dcb26a)
 
 ![C++](https://img.shields.io/badge/-C++-999999?style=flat&logo=c%2B%2B&color=informational)
-![Python](https://img.shields.io/badge/-Python-999999?style=plastic&logo=python)
+![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-999999?style=plastic&logo=Shell)
 
 ![Git](https://img.shields.io/badge/-GIT-999999?style=plastic&logo=git)
 ![Vim](https://img.shields.io/badge/-Vim-999999?style=plastic&logo=Vim)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-999999?style=plastic&logo=pytorch)
-
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 <!--START_SECTION:waka-->
 
