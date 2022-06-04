@@ -7,7 +7,7 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 
 ![C++](https://img.shields.io/badge/-C++-999999?style=flat&logo=c%2B%2B&color=informational)
 ![](https://img.shields.io/badge/-Python-0076ab?style=flat&logo=Python&logoColor=ffffff&color=informational)
-![Shell](https://img.shields.io/badge/-Shell-999999?style=flat&logo=Shell&logoColor=ffffffc&olor=informational)
+![Shell](https://img.shields.io/badge/-Shell-999999?style=flat&logo=Shell&logoColor=ffffff&color=informational)
 ![Git](https://img.shields.io/badge/-GIT-999999?style=flat&logo=git&&logoColor=ffffff&color=informational)
 ![Vim](https://img.shields.io/badge/-Vim-999999?style=flat&logo=Vim&&logoColor=ffffff&color=informational)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-999999?style=flat&logo=pytorch&&logoColor=ffffff&color=informational)
