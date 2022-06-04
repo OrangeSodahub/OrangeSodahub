@@ -13,6 +13,8 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 ![Vim](https://img.shields.io/badge/-Vim-999999?style=plastic&logo=Vim)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-999999?style=plastic&logo=pytorch)
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
 <!--START_SECTION:waka-->
 
 ```text
