@@ -5,7 +5,7 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=OrangeSodahub)
 [![wakatime](https://wakatime.com/badge/user/55e306c3-cea9-4c2e-9056-61b183dcb26a.svg)](https://wakatime.com/@55e306c3-cea9-4c2e-9056-61b183dcb26a)
 
-![C++](https://img.shields.io/badge/-C++-999999?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-999999?style=plastic&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-999999?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/-Shell-999999?style=flat&logo=Shell)
 
