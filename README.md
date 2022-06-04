@@ -5,13 +5,13 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=OrangeSodahub)
 [![wakatime](https://wakatime.com/badge/user/55e306c3-cea9-4c2e-9056-61b183dcb26a.svg)](https://wakatime.com/@55e306c3-cea9-4c2e-9056-61b183dcb26a)
 
-![C++](https://img.shields.io/badge/-C++-999999?style=plastic&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-999999?style=flat&logo=python)
-![Shell](https://img.shields.io/badge/-Shell-999999?style=flat&logo=Shell)
+![C++](https://img.shields.io/badge/-C++-999999?style=plastic&logo=c%2B%2B&color=bule)
+![Python](https://img.shields.io/badge/-Python-999999?style=plastic&logo=python)
+![Shell](https://img.shields.io/badge/-Shell-999999?style=plastic&logo=Shell)
 
-![Git](https://img.shields.io/badge/-GIT-999999?style=flat&logo=git)
-![Vim](https://img.shields.io/badge/-Vim-999999?style=flat&logo=Vim)
-![Pytorch](https://img.shields.io/badge/-Pytorch-999999?style=flat&logo=pytorch)
+![Git](https://img.shields.io/badge/-GIT-999999?style=plastic&logo=git)
+![Vim](https://img.shields.io/badge/-Vim-999999?style=plastic&logo=Vim)
+![Pytorch](https://img.shields.io/badge/-Pytorch-999999?style=plastic&logo=pytorch)
 
 <!--START_SECTION:waka-->
 
