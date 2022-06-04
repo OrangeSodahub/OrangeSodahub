@@ -11,6 +11,7 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 ![Git](https://img.shields.io/badge/-GIT-999999?style=flat&logo=git&&logoColor=ffffff&color=informational)
 ![Vim](https://img.shields.io/badge/-Vim-999999?style=flat&logo=Vim&&logoColor=ffffff&color=informational)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-999999?style=flat&logo=pytorch&&logoColor=ffffff&color=informational)
+![Vscode](https://img.shields.io/badge/-Vscode-999999?style=flat&logo=vscode&&logoColor=ffffff&color=informational)
 
 <!--START_SECTION:waka-->
 
