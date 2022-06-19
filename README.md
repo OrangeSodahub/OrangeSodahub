@@ -17,7 +17,9 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Text     3 mins          ████████████░░░░░░░░░░░░░   48.45 %
+Python   3 mins          ███████████▒░░░░░░░░░░░░░   45.77 %
+CMake    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->
