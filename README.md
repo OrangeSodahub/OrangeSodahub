@@ -17,9 +17,11 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 <!--START_SECTION:waka-->
 
 ```text
-Text     3 mins          ████████████░░░░░░░░░░░░░   48.45 %
-Python   3 mins          ███████████▒░░░░░░░░░░░░░   45.77 %
-CMake    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Python   16 mins         █████████████░░░░░░░░░░░░   52.00 %
+JSON     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+C++      5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Text     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+CMake    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
