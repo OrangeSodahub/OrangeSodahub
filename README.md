@@ -17,12 +17,8 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 <!--START_SECTION:waka-->
 
 ```text
-Python       18 hrs 50 mins  █████████████████████░░░░   84.02 %
-YAML         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Markdown     41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-C++          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Python       23 hrs 24 mins  ████████████████████▓░░░░   82.47 %
+Other        1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 ```
 
 <!--END_SECTION:waka-->
