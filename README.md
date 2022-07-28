@@ -27,6 +27,7 @@ Other      5 hrs 25 mins   ███████████░░░░░░�
 <summary>more</summary>
 <center class="half">
 <img src="https://wakatime.com/share/@YangXiuyu/269cc521-817d-4f77-ac8f-41d2444f4b6a.png" width=50% /><img src="https://wakatime.com/share/@YangXiuyu/2f5220ea-9f10-4d69-84c9-d59becf4c0a9.png" width=50% />
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OrangeSodahub&theme=dark)](https://git.io/streak-stats)
 </centere>
 </details>
