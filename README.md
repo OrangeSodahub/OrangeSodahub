@@ -17,8 +17,8 @@ Hi.<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 37 mins   █████████████▓░░░░░░░░░░░   55.18 %
-Other      2 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.36 %
+Python       17 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.06 %
+Other        7 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
 ```
 
 <!--END_SECTION:waka-->
