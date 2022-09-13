@@ -5,8 +5,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=OrangeSodahub)
 [![wakatime](https://wakatime.com/badge/user/55e306c3-cea9-4c2e-9056-61b183dcb26a.svg)](https://wakatime.com/@55e306c3-cea9-4c2e-9056-61b183dcb26a)
 
-![C++](https://img.shields.io/badge/-C++-999999?style=flat&logo=c%2B%2B&color=informational)
-![Python](https://img.shields.io/badge/-Python-0076ab?style=flat&logo=Python&logoColor=ffffff&color=informational)
+<!--![C++](https://img.shields.io/badge/-C++-999999?style=flat&logo=c%2B%2B&color=informational)-->
+<!--![Python](https://img.shields.io/badge/-Python-0076ab?style=flat&logo=Python&logoColor=ffffff&color=informational)-->
 <!--![Shell](https://img.shields.io/badge/-Shell-999999?style=flat&logo=Shell&logoColor=ffffff&color=informational)-->
 <!--![Git](https://img.shields.io/badge/-GIT-999999?style=flat&logo=git&&logoColor=ffffff&color=informational)-->
 <!--![Vim](https://img.shields.io/badge/-Vim-999999?style=flat&logo=Vim&&logoColor=ffffff&color=informational)-->
