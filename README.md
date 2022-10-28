@@ -16,8 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       43 hrs 7 mins   █████████████████████▓░░░   87.32 %
-Other        3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Python       38 hrs 29 mins  █████████████████████▓░░░   86.60 %
+VHDL         2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Other        2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 ```
 
 <!--END_SECTION:waka-->
