@@ -16,9 +16,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python        9 hrs 49 mins   ███████████████████▓░░░░░   78.74 %
-MATLAB        1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-Other         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Python        11 hrs 10 mins  ████████████████████░░░░░   79.94 %
+Other         1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:waka-->
