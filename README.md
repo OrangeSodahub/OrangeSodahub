@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Major-IE-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Undergraduate-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![visits](https://visitor-badge.glitch.me/badge?page_id=OrangeSodahub)-->
-[![wakatime](https://wakatime.com/badge/user/55e306c3-cea9-4c2e-9056-61b183dcb26a.svg)](https://wakatime.com/@55e306c3-cea9-4c2e-9056-61b183dcb26a)
+[![wakatime](https://wakatime.com/badge/user/55e306c3-cea9-4c2e-9056-61b183dcb26a.svg)](https://wakatime.com/@55e306c3-cea9-4c2e-9056-61b183dcb26a) [![GitHub](https://img.shields.io/github/stars/OrangeSodahub?style=social)](https://github.com/OrangeSodahub)
 
 <!--![C++](https://img.shields.io/badge/-C++-999999?style=flat&logo=c%2B%2B&color=informational)-->
 <!--![Python](https://img.shields.io/badge/-Python-0076ab?style=flat&logo=Python&logoColor=ffffff&color=informational)-->
